@@ -6,9 +6,10 @@ My journey through 100 days of python projects with Angela Yu
 
 Each folder represents the work from a specific day of the course.
 
-- `Day 1` – Hello World & Printing
-- `Day 2` – Variables and Strings
-- `Day 3` – Treasure Island Game 🎮
+### ✅ Day 3 – Treasure Island Game 🏝️
+
+A text-based adventure game written in Python, where your choices decide your fate.  
+[Play the code](day-3_find-the-treasure/task.py)
 - ...
 
 ## My Goals
